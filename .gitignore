@@ -1,0 +1,41 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Other
+*.db
+*.DS_Store
+*.class
+*.pyc
+*.pdb
+*.cache
+
+# Auto-generated files
+*.generated.cs
+
+# Backup files
+*~
+*.bak
+
+# Publish directory
+publish/
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Rider IDE
+.idea/
