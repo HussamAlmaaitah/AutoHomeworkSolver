@@ -21,7 +21,7 @@ namespace AutoHomeworkSolver
 {
     internal class Program
     {
-        private const string GeminiApiKey = "AIzaSyAQI8zX06gC6gQx8IsmwE5B8vQFjPFkrGg";
+        private const string GeminiApiKey = "ApiKey";
 
         static async Task Main(string[] args)
         {
